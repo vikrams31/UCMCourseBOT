@@ -26,3 +26,4 @@ Follow the tutorial to obtain SLACK_BOT_TOKEN and BOT_ID then put them in creden
 
 #### Architecture of the system :"# UCMCourseBot" 
 "# UCMCourseBOT" 
+"# UCMCourseBOT" 
